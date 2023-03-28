@@ -18,7 +18,7 @@ Pour les lab qui se feront en cours
 
 ## Required
 - [x] Create New Project in Android Studio
-- [ X ] Add a view for the front side of the flashcard to display the question
+- [X] Add a view for the front side of the flashcard to display the question
 - [X] Add a view for the back side of the flashcard to display the answer
 - [X] Build in logic to show the answer side when the card is tapped
 - [X] Push code to GitHu
