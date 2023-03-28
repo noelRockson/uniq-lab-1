@@ -1,5 +1,3 @@
-# uniq-lab-1
-Pour les lab qui se feront en cours
 ## Lab1
 
 📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
@@ -7,7 +5,7 @@ Pour les lab qui se feront en cours
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+`TODO://`Flashcard App
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
